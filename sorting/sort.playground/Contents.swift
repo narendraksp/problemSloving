@@ -189,6 +189,7 @@ func selectionQuick(arrayq:inout [Int]){
 
     }
     
+    
 }
 var sortArry2 = [10,9,1,5,8,4,1]
 selectionQuick(arrayq: &sortArry2)
